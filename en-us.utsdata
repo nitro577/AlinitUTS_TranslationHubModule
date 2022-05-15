@@ -121,6 +121,7 @@ $version:1
 @system_battery_txt:Battery
 @system_atc_txt:ATC
 @controller_positions_txt:positions
+@nxt_station_txt:Next station:
 //////////////////
 //Stations
 @line_1_0:Northway
