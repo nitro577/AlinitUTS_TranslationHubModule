@@ -12,4 +12,5 @@ If you want to make your own translation dictionary for AG Subway Simulator Unli
 List of auto-generated translations (translations that may need improvement):
 
 [ko-kr (Korean)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/ko-kr.utsdata)
+
 [fr-fr (French)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/fr-fr.utsdata)
