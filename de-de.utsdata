@@ -9,20 +9,20 @@ $version:1
 @choose_line_button:ok | Linie auswählen
 @max_speed_text:Max. Geschwindigkeit
 @cars_total_text:Wagen (Insgesamt) 
-@controller_text:Zugsteuerung
+@controller_text:Steuerung
 @cab_preview_button:Führerstand
-@interior_preview_button:Fahrgastbereich
+@interior_preview_button:Innenansicht
 @score_text:Ergebnis
 @passengers_text:Fahrgäste
 @speed_limit_text:Geschwindigkeitsbegrenzung
 @current_speed_text: Geschwindigkeit
-@cab_camera_button:Fahrkabinen-Kamera
-@interior_camera_button:Fahrgastbereich
-@station_camera_button:Station
+@cab_camera_button:Führerstandskamera
+@interior_camera_button:Innenansicht
+@station_camera_button:Bahnhof
 @controller_panel_header:Zugsteuerung
 @head_light_button:Zugscheinwerfer
 @@:Licht
-@cab_light_button:Führerstandslicht
+@cab_light_button:Führerstandsbeleuchtung
 @doors_button:Türen
 @horn_button:Zugsignalhorn
 @stop_pos_header:Positionskontrollsystem
@@ -39,7 +39,7 @@ $version:1
 @inf_record_txt:Aufnahme
 @inf_done_txt:Fertig
 @announcement_setup_button:Einrichten
-@simple_lighting_notice:<b><color=red>Hinweis: </colorWenn dein Gerät das dynamische Beleuchtungssystem nicht unterstützt (die Funktion "Zug-Scheinwerfer" funktioniert nicht), kannst du das "einfache Beleuchtungssystem" aktivieren:  </b>
+@simple_lighting_notice:<b><color=red>Hinweis:</color> Wenn Dein Gerät die dynamische Beleuchtung (Scheinwerfer-Funktion) nicht unterstützt, kannst du das "Einfache Beleuchtungssystem" einschalten:</b>
 @quit_text:Beenden
 @back_to_menu_button:Zurück zum Hauptmenü
 @cancel_button:Abbrechen
@@ -66,15 +66,15 @@ $version:1
 @@:Level: schwer
 //////////////////
 @inf_next_signal:Nächstes Signal
-@inf_pressure:Bremsen-Luftdruck
+@inf_pressure:Bremsdruck
 @inf_pressure_ind:Prsr.
-@msg_autobrake:Automatische Bremse ist aktiv...
-@msg_unloading:Entladen...
+@msg_autobrake:Automatische Bremse ist aktiv
+@msg_unloading:Entladung...
 @msg_correct_stop:Richtig am Bahnhof angehalten. Bonus +100
 @msg_nxt_station:Du kannst jetzt zur nächsten Station abfahren.
-@msg_start_1:Vorbereitungen für den Start... Bitte warten
-@msg_start_2:Motor und Kompressor vorbereiten. Bitte warten
-@msg_start_3:Der Zug ist startklar. Viel Glück!
+@msg_start_1:Vorbereitung auf den Start... Bitte warten
+@msg_start_2:Vorbereitung des Motors und des Kompressors. Bitte warten
+@msg_start_3:Der Zug ist bereit. Viel Glück!
 @controller_lock:Blockiert
 @fines_total:Geldbußen, insgesamt:
 @passengers_transported:Beförderte Fahrgäste:
@@ -93,8 +93,8 @@ $version:1
 @load_text_4:Fast fertig...
 @spd_warning_50:Achtung: Eine Geschwindigkeitsbegrenzung kommt (50 km/h)
 @spd_warning_35:Achtung: Eine Geschwindigkeitsbegrenzung kommt (35 km/h)
-@spd_overspeed:Geschwindigkeitsüberschreitung. Bitte halte die Zuggeschwindigkeit unter Kontrolle...
-@spd_ok:Jetzt ist die Zuggeschwindigkeit in Ordnung...
+@spd_overspeed:Geschwindigkeitsüberschreitung. Bitte halte die Geschwindigkeit unter Kontrolle...
+@spd_ok:Jetzt ist die Geschwindigkeit in Ordnung...
 @spd_fine:Geschwindigkeitsüberschreitung. Verlangsame den Zug! Geldbuße 1 Punkt/Sek.
 @compressor_busy:Zustand: beschäftigt
 @compressor_standby:Zustand: Standby
