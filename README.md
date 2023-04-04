@@ -26,4 +26,4 @@ List of auto-generated translations (translations that may need improvement):
 
 German translation provided by [@Janikfrb](https://github.com/Janikfrb)
 
-Currently working on the Japanese auto-generated translation.
+Currently working on a Japanese auto-generated translation.
