@@ -12,9 +12,9 @@ If you want to make your own translation dictionary for AG Subway Simulator Unli
 ```
 AlinitUTS_TranslationHubModule
 \
- |-Translations *//folder, contains translation files* 
- |-Version *//folder, contains version info file*
- |-README.md *//this readme file*
+ |-Translations //folder, contains translation files 
+ |-Version //folder, contains version info file
+ |-README.md //this readme file
 ```
 
 
