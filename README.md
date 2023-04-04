@@ -14,3 +14,5 @@ List of auto-generated translations (translations that may need improvement):
 [ko-kr (Korean)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/ko-kr.utsdata)
 
 [fr-fr (French)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/fr-fr.utsdata)
+
+Currently working on the Japanese auto-generated translation.
