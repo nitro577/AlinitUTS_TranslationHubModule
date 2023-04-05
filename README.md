@@ -21,8 +21,8 @@ AlinitUTS_TranslationHubModule
 **Auto-generated translations** marked as "[AUTO]". It means that the translation is generated using the machine translation service.
 List of auto-generated translations (translations that may need improvement):
 
-- [ko-kr (Korean)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/ko-kr.utsdata)
-- [fr-fr (French)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/fr-fr.utsdata)
+- [ko-kr (Korean)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/Translations/ko-kr.utsdata)
+- [fr-fr (French)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/Translations/fr-fr.utsdata)
 
 German translation provided by [@Janikfrb](https://github.com/Janikfrb)
 
