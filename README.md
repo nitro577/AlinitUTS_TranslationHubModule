@@ -23,6 +23,7 @@ List of auto-generated translations (translations that may need improvement):
 
 - [ko-kr (Korean)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/Translations/ko-kr.utsdata)
 - [fr-fr (French)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/Translations/fr-fr.utsdata)
+- [ja-jp (Japanese)](https://github.com/nitro577/AlinitUTS_TranslationHubModule/blob/main/Translations/ja-jp.utsdata)
 
 German translation provided by [@Janikfrb](https://github.com/Janikfrb)
 
