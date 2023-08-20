@@ -1,0 +1,184 @@
+$lang:Čeština
+$version:1
+//UI Strings
+@new_game_button:Nová Hra
+@settings_button:Nastavení
+@about_button:O hře
+@quit_button:Odejít
+@choose_line_button:ok | výběr linky
+@max_speed_text:Max. rychlost
+@cars_total_text:Vozů (celkem)
+@controller_text:Ovladač
+@cab_preview_button:Kabina
+@interior_preview_button:Salón
+@score_text:Score
+@passengers_text:Pasažéři
+@speed_limit_text:Max. povolená rychlost
+@current_speed_text:Rychlost
+@cab_camera_button:Kabina 
+@interior_camera_button:Interior
+@station_camera_button:Salón
+@controller_panel_header:Ovladač
+@head_light_button:Přední
+@@:Světlo
+@cab_light_button:Osvětlení kabiny
+@doors_button:Dveře
+@horn_button:Klakson
+@stop_pos_header:Pozice zastavení
+@express_train_notifiaction:Toto je express vlak. Projeď bez zastavení.
+@view_pos_header:<- Pozice vzhledu ->
+@announcement_button:Oznámení
+@inf_msg_1:Oznámení 1
+@@:(5 sec)
+@inf_msg_2:Oznámení 2
+@@:(10 sec)
+@inf_ready:Připraveno
+@inf_playback:Oznámení se přehráva
+@inf_recording:Nahrávání...
+@inf_record_txt:Nahrát
+@inf_done_txt:Hotovo
+@announcement_setup_button:Nastavení
+@simple_lighting_notice:<b><color=red>Poznámka: </color>Pokud váš přístroj nepodporuje Dynamické osvětlení (Přední světla nefungují), můžete zapnout "Zjednodušené osvětlení":  </b>
+@quit_text:Odejít
+@back_to_menu_button:Zpět do hlavního menu
+@cancel_button:Zrušit
+@simple_lighting_option:Použít zjednodušené osvětlení (je potřebný restart)
+@back_button:zpět
+@line_select_text:Výběr linky
+@start_line_button:Začít
+@system_text:Systém
+@master_switch_button:Hlavní vypínač
+@line_1_name:Západní linka
+@line_2_name:Severní linka
+@line_3_name:Jižní linka
+@line_4_name:Centrální linka
+@line_5_name:linka A (Express)
+@line_1_description:Stanic: 10
+@@:Obtížnost: Jednoduchý
+@line_2_description:Stanic: 9
+@@:Obtížnost: Jednoduchý
+@line_3_description:Stanic: 7
+@@:Obtížnost: střední
+@line_4_description:Stanic: 10
+@@:Obtížnost: těžký
+@line_5_description:Stanic: 11 (17)
+@@:Obtížnost: těžký
+//////////////////
+@inf_next_signal:Další signál
+@inf_pressure:Kompresor
+@inf_pressure_ind:Tlak
+@msg_autobrake:Automatické brždění aktivní
+@msg_unloading:Vykládka...
+@msg_correct_stop:Správná pozice na stanici. Bonus +100
+@msg_nxt_station:Teď můžete odjet na další stanici
+@msg_start_1:Příprava ke startu... Počkejte
+@msg_start_2:Příprava motoru a kompresoru. Počkejte
+@msg_start_3:Vlak je připraven. Hodně štěstí!
+@controller_lock:Zablokovano
+@fines_total:Pokuty, celkem:
+@passengers_transported:Pasažéru převezeno:
+@score:Final Score:
+@signal_red_txt:Červený
+@signal_green_txt:Zelený
+@signal_connection:Připojení...
+@signal_warning:Červený signál vepředu
+@signal_fine:Průjezd na červenou, pokuta -50
+@ads_disabled_txt:<b>reklamy jsou odpojené</b>
+@ads_disable_txt:<b>odpojit reklamy + offline režim</b>
+@@:<i><size=10>Odpojuje všechny reklamy třetích stran a povoluje hraní offline</size></i>
+@load_text_1:Zkouška systémů...
+@load_text_2:Zkouška kompresoru...
+@load_text_3:Zkouška signálu a motoru...
+@load_text_4:Skoro hotovo...
+@spd_warning_50:Pozor: Maximální povolená rychlost vpředu (50 KM/H)
+@spd_warning_35:Pozor: Maximální povolená rychlost vpředu (35 KM/H)
+@spd_overspeed:Překročení rychlosti. Prosím mějte rychlost vlaku pod kontrolou
+@spd_ok:Teď rychlost vlaku je OK...
+@spd_fine:Overspeed. Zpomal! pokuta 1 bod/sekunda
+@compressor_busy:Stav: pracuje
+@compressor_standby:Stav: čeká
+@graphics_qual_txt:Nastavení grafiky
+@qual_low_txt:Nízká
+@qual_medium_txt:Střední
+@qual_norm_txt:Normální
+@qual_high_txt:Vysoká
+@qual_refl_checkbox:Odrazy
+@qual_light_checkbox:Použít zjednodušené osvětlení (je zapotřebí restart)
+@change_lang_btn:Změnit jazyk
+@close_btn:Zavřít
+@about_text:Naprogramoval: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Modely vytvořil: Anton Romanchuk
+@@:------
+@@:Vydavatel: Alpha Intl. IT Group
+@@:Údržba projektu: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Tato hra potřebuje připojený internet</b>
+@@:
+@@:Internet přístup a reklamy třetích stran umožňují získat nějaké finanční prostředky na zlepšení této hry. Můžete si však koupit funkci "Odpojit reklamy", abyste deaktivovali všechny reklamy 3rd a aktivovali režim offline. Děkujeme za pochopení.
+@selected_train_txt:Vybraný vlak
+@next_signal_txt:Další signál
+@air_compr_txt:Vzdušný kompresor
+@air_pressure_txt:Tlak:
+@system_battery_txt:Baterie
+@system_atc_txt:ATC
+@controller_positions_txt:pozice
+@nxt_station_txt:Příští stanice:
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (without stopping)
+@line_5_4:91st Street
+@line_5_5:West Highway (without stopping)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (without stopping)
+@line_5_9:Central Library
+@line_5_10:Museum Street (without stopping)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (without stopping)
+@line_5_14:51st Street
+@line_5_15:49th Street (without stopping)
+@line_5_16:West Street
+@line_5_17:Control point
