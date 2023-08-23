@@ -1,1 +1,1 @@
-currentDatabaseVersion = 2;
+currentDatabaseVersion = 3;
