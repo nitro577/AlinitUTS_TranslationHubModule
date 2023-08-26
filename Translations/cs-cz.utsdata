@@ -16,8 +16,8 @@ $version:1
 @speed_limit_text:Max. povolená rychlost
 @current_speed_text:Rychlost
 @cab_camera_button:Kabina 
-@interior_camera_button:Interior
-@station_camera_button:Salón
+@interior_camera_button:Salón
+@station_camera_button:Stanice
 @controller_panel_header:Ovladač
 @head_light_button:Přední
 @@:Světlo
