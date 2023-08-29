@@ -94,7 +94,7 @@ $version:1
 @spd_warning_35:Pozor: Maximální povolená rychlost vpředu (35 KM/H)
 @spd_overspeed:Překročení rychlosti. Prosím mějte rychlost vlaku pod kontrolou
 @spd_ok:Teď rychlost vlaku je OK...
-@spd_fine:Overspeed. Zpomal! pokuta 1 bod/sekunda
+@spd_fine:Překročení rychlosti. Zpomal! pokuta 1 bod/sekunda
 @compressor_busy:Stav: pracuje
 @compressor_standby:Stav: čeká
 @graphics_qual_txt:Nastavení grafiky
