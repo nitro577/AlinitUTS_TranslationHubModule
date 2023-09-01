@@ -5,15 +5,15 @@ $version:1
 @settings_button:Налаштування
 @about_button:Про гру
 @quit_button:Вихід
-@choose_line_button:ok | вибір лінії
+@choose_line_button:ОК | вибір лінії
 @max_speed_text:Макс. швидкість
 @cars_total_text:Вагони (всього)
 @controller_text:Контролер
 @cab_preview_button:Кабіна
 @interior_preview_button:Салон
-@score_text:Оцінка
+@score_text:Рахунок
 @passengers_text:Пасажири
-@speed_limit_text:Макс. швидкість
+@speed_limit_text:Макс. дозволена швидкість
 @current_speed_text:Швидкість
 @cab_camera_button:Кабіна
 @interior_camera_button:Салон
@@ -25,26 +25,26 @@ $version:1
 @doors_button:Двері
 @horn_button:Сигнал
 @stop_pos_header:Контроль позиції зупинки
-@express_train_notifiaction:Це експрес маршрут. Пройдіть наступну станцію без зупинки.
+@express_train_notifiaction:Це експрес маршрут. Проїдьте наступну станцію без зупинки.
 @view_pos_header:<- Позиція огляду ->
 @announcement_button:Оповіщення
 @inf_msg_1:Повідомл. 1
-@@:(5 sec)
+@@:(5 сек.)
 @inf_msg_2:Повідомл. 2
-@@:(10 sec)
+@@:(10 сек.)
 @inf_ready:Готовий
 @inf_playback:Відтворення повідомлення...
 @inf_recording:Запис...
 @inf_record_txt:Запис
 @inf_done_txt:Готово
 @announcement_setup_button:Налаштування
-@simple_lighting_notice:<b><color=red>Примітка: </color>Если Ваше устройство не поддерживает Динамическое освещение (Головной свет поезда не работает), вы можете активировать использование упрощенной системы освещения:  </b>
+@simple_lighting_notice:<b><color=red>Примітка: </color>Якщо Ваш пристрій не підтримує динамічне освітлення (Головне світло потяга не працює), ви можете активувати використання спрощенної системи освітлення:  </b>
 @quit_text:Вихід
 @back_to_menu_button:Назад у головне меню
-@cancel_button:Відміна
+@cancel_button:Скасувати
 @simple_lighting_option:Використовувати спрощене освітлення (потрібен перезапуск)
 @back_button:назад
-@line_select_text:Выбір лінії
+@line_select_text:Вибір лінії
 @start_line_button:Почати!
 @system_text:Система
 @master_switch_button:ЗАГАЛЬНИЙ ТУМБЛЕР
@@ -72,7 +72,7 @@ $version:1
 @msg_correct_stop:Правильна зупинка на станції. Бонус +100
 @msg_nxt_station:Тепер можна відправлятися до наступної станції
 @msg_start_1:Підготовка до запуску... Зачекайте...
-@msg_start_2:Підготовка електродвигуна і компресора. Зачекайте
+@msg_start_2:Підготовка систем і компресора. Зачекайте
 @msg_start_3:Потяг готовий до роботи. Удачі!
 @controller_lock:Заблоковано
 @fines_total:Штрафи, всього:
@@ -95,7 +95,7 @@ $version:1
 @spd_overspeed:Перевищення швидкості. Тримайте швидкість під контролем
 @spd_ok:Тепер швидкість потягу у межах встановленого обмеження...
 @spd_fine:Перевищення швидкості. Знизьте швидкість руху! Штраф 1 бал/сек
-@compressor_busy:Статус: зайнятий
+@compressor_busy:Статус: працює
 @compressor_standby:Статус: простій
 @graphics_qual_txt:Якість графіки
 @qual_low_txt:Низька
@@ -114,7 +114,7 @@ $version:1
 @offline_notice:<b>Ця гра потребує підключення до мережі Інтернет</b>
 @@:
 @@:Підключення до мережі Інтернет і стороння реклама дозволяє нам отримати кошти, щоб робити цю гру кращою. Ви можете придбати функцію "Відключити рекламу", котра також активує офлайн-режим. Сподіваємось на Ваше розуміння.
-@selected_train_txt:Обраний потяг
+@selected_train_txt:Вибраний потяг
 @next_signal_txt:Наступний сигнал
 @air_compr_txt:Компресор
 @air_pressure_txt:Тиск:
