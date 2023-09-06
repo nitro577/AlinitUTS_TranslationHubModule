@@ -1,0 +1,186 @@
+$lang:Espanol
+$version:1
+//UI Strings
+//This translation is provided by: Rescue742Fan
+@new_game_button:Nuevo Juego
+@settings_button:Configuración
+@about_button:Sobre
+@quit_button:Dejar
+@choose_line_button:ok | escoje linía
+@max_speed_text:Máx. Velocidad
+@cars_total_text:Carros (total)
+@controller_text:Controlador
+@cab_preview_button:Cabina
+@interior_preview_button:Interior
+@score_text:Puntos
+@passengers_text:Pasajeros
+@speed_limit_text:Límite de velocidad
+@current_speed_text:Velocidad
+@cab_camera_button:Camera Cabina
+@interior_camera_button:Interior
+@station_camera_button:Estación
+@controller_panel_header:Controlador
+@head_light_button:Cabeza
+@@:Luz
+@cab_light_button:Cabina Luz
+@doors_button:Puertas
+@horn_button:Bocina
+@stop_pos_header:Control posición de parada
+@express_train_notifiaction:Este es el tren expreso. Sáltate esta estación.
+@view_pos_header:<- Ver posición ->
+@announcement_button:Anuncio
+@inf_msg_1:Mensaje 1
+@@:(5 sec)
+@inf_msg_2:Mensaje 2
+@@:(10 sec)
+@inf_ready:Listo
+@inf_playback:El mensaje se está reproduciendo...
+@inf_recording:Grabación...
+@inf_record_txt:Grabar
+@inf_done_txt:Fin
+@announcement_setup_button:Configuración
+@simple_lighting_notice:<b><color=red>Nota: </color>Si su dispositivo no admite el sistema de iluminación dinámica (la función de faros no funciona), puede activar el "Sistema de iluminación simple":  </b>
+@quit_text:Dejar
+@back_to_menu_button:Regresar al menú principal
+@cancel_button:Cancelar
+@simple_lighting_option:Utilice iluminación simple (es necesario reiniciar)
+@back_button:Regresar
+@line_select_text:Seleccionar línea
+@start_line_button:Vamanos!
+@system_text:Sistema
+@master_switch_button:INTERRUPTOR MAESTRO
+@line_1_name:Linía Occidental
+@line_2_name:Linía N
+@line_3_name:Linía S
+@line_4_name:Linía Central
+@line_5_name:Linía A (Expres)
+@line_1_description:Estaciones: 10
+@@:Level: fácil
+@line_2_description:Estaciones: 9
+@@:Level: fácil
+@line_3_description:Estaciones: 7
+@@:Level: medio
+@line_4_description:Estaciones: 10
+@@:Level: difícil
+@line_5_description:Estaciones: 11 (17)
+@@:Level: difícil
+//////////////////
+@inf_next_signal:Siguiente señal
+@inf_pressure:Presión aire de los frenos
+@inf_pressure_ind:Pres.
+@msg_autobrake:El freno automático está activo.
+@msg_unloading:Descargando...
+@msg_correct_stop:Parada correcta en la estación. Extra +100
+@msg_nxt_station:Ahora puedes ir a la siguiente estación.
+@msg_start_1:Preparándonos para el inicio... Por favor espera
+@msg_start_2:Preparando motor y compresor. Espere por favor
+@msg_start_3:El tren está listo para partir. ¡Buena suerte!
+@controller_lock:Obstruido
+@fines_total:Multas, total:
+@passengers_transported:Pasajeros transportados:
+@score:Final Score:Punots final
+@signal_red_txt:Rojo
+@signal_green_txt:Verde
+@signal_connection:Conexión...
+@signal_warning:La señal roja está adelante
+@signal_fine:Ignorando la señal roja, multa -50
+@ads_disabled_txt:<b>Los anuncios están deshabilitados</b>
+@ads_disable_txt:<b>Desactivar anuncios + modo sin conexión</b>
+@@:<i><size=10>Desactiva todos los anuncios de terceros y permite jugar sin conexión</size></i>
+@load_text_1:Sistemas de control...
+@load_text_2:Comprobación del compresor...
+@load_text_3:Comprobación de señales y motor....
+@load_text_4:Casi termino...
+@spd_warning_50:Advertencia: el límite de velocidad está más adelante (50 km/h)
+@spd_warning_35:Advertencia: el límite de velocidad está más adelante (35 km/h)
+@spd_overspeed:Sobre velocidad. Por favor, más despacio
+@spd_ok:Velocidad del tren ok...
+@spd_fine:Sobre velocidad. ¡Desacelerar! Fina 1 punto/seg.
+@compressor_busy:Estado: ocupado
+@compressor_standby:Estado: apoyar
+@graphics_qual_txt:Calidad de los gráficos
+@qual_low_txt:Bajo
+@qual_medium_txt:Medio
+@qual_norm_txt:Normal
+@qual_high_txt:Alto
+@qual_refl_checkbox:Reflexiones
+@qual_light_checkbox:Utilice un sistema de iluminación simplificado (es necesario reiniciar)
+@change_lang_btn:Cambiar idioma del juego
+@close_btn:Cerrar
+@about_text:Programación por: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelos por: Anton Romanchuk
+@@:------
+@@:Editor: Alpha Intl. IT Group
+@@:Projecto mantienemento: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Juego necista conexión de internet</b>
+@@:
+@@:El acceso a Internet y los anuncios de terceros permiten obtener financiación para mejorar este juego. Sin embargo, puede comprar la función "Desactivar anuncios" para desactivar todos los anuncios de terceros y activar el modo fuera de línea. Esperamos su comprensión.
+@selected_train_txt:Tren seleccionado
+@next_signal_txt:Siguiente señal
+@air_compr_txt:Aire Compresor
+@air_pressure_txt:Presión:
+@system_battery_txt:Batería
+@system_atc_txt:ATC
+@controller_positions_txt:posiciones
+@nxt_station_txt:Siguiente estacion:
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (sin parar)
+@line_5_4:91st Street
+@line_5_5:West Highway (sin parar)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (sin parar)
+@line_5_9:Central Library
+@line_5_10:Museum Street (sin parar)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (sin parar)
+@line_5_14:51st Street
+@line_5_15:49th Street (sin parar)
+@line_5_16:West Street
+@line_5_17:Control point
+
