@@ -29,3 +29,5 @@ German translation provided by [@Janikfrb](https://github.com/Janikfrb)
 Czech translation provided by [@METROGROUND](https://github.com/METROGROUND)
 
 French translation edited by [@ben20471](https://github.com/ben20471)
+
+Spanish translation provided by [@Rescue742Fan](https://github.com/Rescue742Fan)
