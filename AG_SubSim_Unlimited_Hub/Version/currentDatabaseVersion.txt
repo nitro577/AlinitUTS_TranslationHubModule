@@ -1,0 +1,1 @@
+currentDatabaseVersion = 5; //added Spanish translation

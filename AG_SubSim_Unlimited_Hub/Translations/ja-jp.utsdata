@@ -1,0 +1,184 @@
+$lang:日本語 [AUTO]
+$version:1
+//UI Strings
+@new_game_button:新しいゲーム
+@settings_button:設定
+@about_button:ゲームについて
+@quit_button:やめる
+@choose_line_button:ok | 地下鉄路線を選ぶ
+@max_speed_text:最大。 スピード
+@cars_total_text:ワゴン（合計
+@controller_text:コントローラ
+@cab_preview_button:キャビン
+@interior_preview_button:インテリア
+@score_text:スコア
+@passengers_text:旅客数
+@speed_limit_text:制限速度
+@current_speed_text:スピード
+@cab_camera_button:キャビンカメラ
+@interior_camera_button:インテリア
+@station_camera_button:地下鉄の駅
+@controller_panel_header:コントローラ
+@head_light_button:
+@@:ヘッドライト
+@cab_light_button:キャビンライト
+@doors_button:ドア
+@horn_button:ホーン
+@stop_pos_header:停止位置制御
+@express_train_notifiaction:これが特急です。 この駅を飛ばしてください。
+@view_pos_header:<- ビューの位置 ->
+@announcement_button:発表
+@inf_msg_1:メッセージ 1
+@@:(5 sec)
+@inf_msg_2:メッセージ 2
+@@:(10 sec)
+@inf_ready:準備
+@inf_playback:メッセージを再生しています...
+@inf_recording:録音...
+@inf_record_txt:書く
+@inf_done_txt:完了しました
+@announcement_setup_button:設定
+@simple_lighting_notice:<b><color=red>ノート： </color>お使いのデバイスがダイナミック ライティング システムをサポートしていない (ヘッドライト機能が動作していない) 場合は、「シンプル ライティング システム」をオンにすることができます。</b>
+@quit_text:やめる
+@back_to_menu_button:メインメニューに戻る
+@cancel_button:キャンセル
+@simple_lighting_option:シンプルな照明を使用する (再起動が必要)
+@back_button:戻る
+@line_select_text:回線選択
+@start_line_button:さあ行こう！
+@system_text:システム
+@master_switch_button:マスタースイッチ
+@line_1_name:Western Line
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:Central Line
+@line_5_name:A Line (Express)
+@line_1_description:ステーション: 10
+@@:レベル：簡単
+@line_2_description:ステーション: 9
+@@:レベル：簡単
+@line_3_description:ステーション: 7
+@@:レベル：ミディアム
+@line_4_description:ステーション: 10
+@@:レベル：ハード
+@line_5_description:ステーション: 11 (17)
+@@:レベル：ハード
+//////////////////
+@inf_next_signal:次の信号
+@inf_pressure:ブレーキ空気圧
+@inf_pressure_ind:Prsr.
+@msg_autobrake:自動ブレーキが作動しています
+@msg_unloading:荷降ろし中...
+@msg_correct_stop:駅で正しい停止。 ボーナス +100
+@msg_nxt_station:Nこれで次の駅に行ける
+@msg_start_1:開始の準備中... お待ちください
+@msg_start_2:エンジンとコンプレッサーの準備。 お待ちください
+@msg_start_3:列車は出発する準備ができています。 幸運を！
+@controller_lock:非活性
+@fines_total:罰金、合計:
+@passengers_transported:輸送された乗客:
+@score:最終スコア:
+@signal_red_txt:赤
+@signal_green_txt:緑
+@signal_connection:繋がり...
+@signal_warning:前方に赤信号あり
+@signal_fine:赤信号無視、罰金 -50
+@ads_disabled_txt:<b>広告は無効です</b>
+@ads_disable_txt:<b>広告 + オフライン モードを無効にする</b>
+@@:<i><size=10>サードパーティの広告をすべて無効にし、オフラインでプレイできるようにします</size></i>
+@load_text_1:システムをチェックしています...
+@load_text_2:コンプレッサーをチェックしています...
+@load_text_3:信号とエンジンをチェックしています...
+@load_text_4:ほぼ完了しました...
+@spd_warning_50:警告: 速度制限が進んでいます (50 kph)
+@spd_warning_35:警告: 速度制限が進んでいます (35 kph)
+@spd_overspeed:速度超過。 列車の速度を抑えてください
+@spd_ok:これで列車の速度はOKです
+@spd_fine:速度超過。 徐行！ 細かい 1 ポイント/秒
+@compressor_busy:状態: 忙しい
+@compressor_standby:状態: スタンバイ
+@graphics_qual_txt:グラフィックの質
+@qual_low_txt:低い
+@qual_medium_txt:中くらい
+@qual_norm_txt:正常
+@qual_high_txt:高
+@qual_refl_checkbox:反射
+@qual_light_checkbox:簡易ライティング システムを使用する (再起動が必要)
+@change_lang_btn:ゲーム言語の変更
+@close_btn:近い
+@about_text:プログラミング: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D モデルの作成者: Anton Romanchuk
+@@:------
+@@:パブリッシャー: Alpha Intl. IT Group
+@@:プロジェクトのメンテナンス: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>このゲームにはインターネット アクセスが必要です</b>
+@@:
+@@:インターネット アクセスとサード パーティの広告により、このゲームを改善するための資金を得ることができます。 ただし、「広告を無効にする」機能を購入して、すべてのサードパーティの広告を無効にし、オフライン モードを有効にすることができます。 ご理解をお願いいたします。
+@selected_train_txt:選択した列車
+@next_signal_txt:次の信号
+@air_compr_txt:エアコンプレッサ
+@air_pressure_txt:プレッシャー：
+@system_battery_txt:バッテリー
+@system_atc_txt:ATC
+@controller_positions_txt:ステップ数
+@nxt_station_txt:次の駅：
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (without stopping)
+@line_5_4:91st Street
+@line_5_5:West Highway (without stopping)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (without stopping)
+@line_5_9:Central Library
+@line_5_10:Museum Street (without stopping)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (without stopping)
+@line_5_14:51st Street
+@line_5_15:49th Street (without stopping)
+@line_5_16:West Street
+@line_5_17:Control point

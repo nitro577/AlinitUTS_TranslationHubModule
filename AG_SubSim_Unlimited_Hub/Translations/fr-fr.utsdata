@@ -1,0 +1,184 @@
+$lang:Français
+$version:2
+//UI Strings
+@new_game_button:Nouveau jeu
+@settings_button:Réglages
+@about_button:Info
+@quit_button:Quitter
+@choose_line_button:accepter | choisir la ligne
+@max_speed_text:Vitesse Maximum
+@cars_total_text:Wagons (total)
+@controller_text:Manette
+@cab_preview_button:Cabine
+@interior_preview_button:Intérieur
+@score_text:Score
+@passengers_text:Passagers
+@speed_limit_text:Limitation de vitesse
+@current_speed_text:Vitesse
+@cab_camera_button:Caméra cabine
+@interior_camera_button:Intérieur
+@station_camera_button:Station
+@controller_panel_header:Manipulater de traction
+@head_light_button:Phares
+@@:
+@cab_light_button:Lumière intérieure
+@doors_button:Portes
+@horn_button:Sifflet
+@stop_pos_header:Contrôle de la position d'arrêt
+@express_train_notifiaction:Ceci est un train express. Ignorez cette station.
+@view_pos_header:<- Position de vue ->
+@announcement_button:Annonce
+@inf_msg_1:Message 1
+@@:(5 sec)
+@inf_msg_2:Message 2
+@@:(10 sec)
+@inf_ready:Prêt
+@inf_playback:Le message est en train d’être joué…
+@inf_recording:Enregistrement…
+@inf_record_txt:Record
+@inf_done_txt:Terminé
+@announcement_setup_button:Configuration
+@simple_lighting_notice:<b><color=red>Avis : </color>Si votre appareil ne prend pas en charge le système d'éclairage dynamique (la fonction phare ne fonctionne pas), vous pouvez activer le "Système d'éclairage simple":  </b>
+@quit_text:Quitter
+@back_to_menu_button:Retour au menu principal
+@cancel_button:Cancel
+@simple_lighting_option:Utiliser l’éclairage simplifié (relancement requis)
+@back_button:retour
+@line_select_text:Sélection de ligne
+@start_line_button:Allons-y!
+@system_text:Système
+@master_switch_button:COMMUTATEUR MAÎTRE
+@line_1_name:Ligne Ouest
+@line_2_name:Ligne N
+@line_3_name:Ligne S
+@line_4_name:Ligne Centrale
+@line_5_name:Ligne A (Express)
+@line_1_description:Stations: 10
+@@:Niveau : facile
+@line_2_description:Stations: 9
+@@:Niveau : facile
+@line_3_description:Stations: 7
+@@:Niveau : moyen
+@line_4_description:Stations: 10
+@@:Niveau : difficile
+@line_5_description:Stations: 11 (17)
+@@:Niveau : difficile
+//////////////////
+@inf_next_signal:Signal suivant
+@inf_pressure:Pression des freins
+@inf_pressure_ind:Prsn.
+@msg_autobrake:Le freinage automatique est activé
+@msg_unloading:Déchargement…
+@msg_correct_stop:Arrêt correct sur la station. Bonus +100
+@msg_nxt_station:Vous pouvez maintenant vous rendre à la station suivante
+@msg_start_1:Préparation du démarrage… Veuillez patienter
+@msg_start_2:Préparation moteur et compresseur. S'il vous plaît, attendez
+@msg_start_3:Le train est prêt à partir. Bonne chance!
+@controller_lock:Bloqué
+@fines_total:Amendes, total :
+@passengers_transported:Passagers transportés :
+@score:Score final :
+@signal_red_txt:Rouge
+@signal_green_txt:Vert
+@signal_connection:Connexion…
+@signal_warning:Le prochain signal est rouge
+@signal_fine:Signal rouge dépassé, amende -50
+@ads_disabled_txt:<b>Les annonces sont désactivées</b>
+@ads_disable_txt:<b>Désactiver les publicités + mode hors connexion</b>
+@@:<i><size=10>Désactive toutes les publicités tierces et permet de jouer hors ligne</size></i>
+@load_text_1:Vérification des systèmes…
+@load_text_2:Vérification du compresseur…
+@load_text_3:Vérification des signaux et du moteur…
+@load_text_4:Presque fini…
+@spd_warning_50:Warning: Attention : la limite de vitesse a changé (50 km/h)
+@spd_warning_35:Warning: Attention : la limite de vitesse a changé (35 km/h)
+@spd_overspeed:Survitesse. Veuillez garder la vitesse du train sous la limite
+@spd_ok:Maintenant la vitesse du train est OK…
+@spd_fine:Survitesse. Ralentissez! Amende 1 point/sec
+@compressor_busy:State: occupé
+@compressor_standby:State: Prêt
+@graphics_qual_txt:Qualité des graphismes
+@qual_low_txt:Faible
+@qual_medium_txt:Moyen
+@qual_norm_txt:Normal
+@qual_high_txt:Haut
+@qual_refl_checkbox:Reflets
+@qual_light_checkbox:Utiliser un système d'éclairage simplifié (relancement requis)
+@change_lang_btn:Changer la langue du jeu
+@close_btn:Fermer 
+@about_text:Programmé par : Sviatoslav Bilov (bilov@alinit.org)
+@@:Modèles 3D par : Anton Romanchuk
+@@:------
+@@:Éditeur: Alpha Intl. IT Group
+@@:Mainteneur du projet : Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Ce jeu nécessite un accès à Internet</b>
+@@:
+@@:L'accès à Internet et les publicités tierces permettent d'obtenir des fonds pour améliorer ce jeu. Cependant, vous pouvez acheter la fonctionnalité "Désactiver les publicités" pour désactiver toutes les publicités tierces et activer le mode hors ligne.
+@selected_train_txt:Train choisi
+@next_signal_txt:Prochain signal
+@air_compr_txt:Compresseur d'air
+@air_pressure_txt:Pression :
+@system_battery_txt:Batterie
+@system_atc_txt:ATC
+@controller_positions_txt:postes
+@nxt_station_txt:Prochaine station :
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (Sans arrêt)
+@line_5_4:91st Street
+@line_5_5:West Highway (Sans arrêt)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (Sans arrêt)
+@line_5_9:Central Library
+@line_5_10:Museum Street (Sans arrêt)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (Sans arrêt)
+@line_5_14:51st Street
+@line_5_15:49th Street (Sans arrêt)
+@line_5_16:West Street
+@line_5_17:Control point

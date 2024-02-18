@@ -1,0 +1,185 @@
+$lang:Deutsch
+$version:2
+//This translation is provided by: oneJanik (admin@onejanik.xyz)
+//UI Strings
+@new_game_button:Neues Spiel
+@settings_button:Einstellungen
+@about_button:Über
+@quit_button:Beenden
+@choose_line_button:ok | Linie auswählen
+@max_speed_text:Max. Geschwindigkeit
+@cars_total_text:Wagen (Insgesamt) 
+@controller_text:Steuerung
+@cab_preview_button:Führerstand
+@interior_preview_button:Innenansicht
+@score_text:Ergebnis
+@passengers_text:Fahrgäste
+@speed_limit_text:Geschwindigkeitsbegrenzung
+@current_speed_text: Geschwindigkeit
+@cab_camera_button:Führerstandskamera
+@interior_camera_button:Innenansicht
+@station_camera_button:Bahnhof
+@controller_panel_header:Zugsteuerung
+@head_light_button:Zugscheinwerfer
+@@:Licht
+@cab_light_button:Führerstandsbeleuchtung
+@doors_button:Türen
+@horn_button:Zugsignalhorn
+@stop_pos_header:Positionskontrollsystem
+@express_train_notifiaction:Dies ist ein Schnellzug. Überspringe diese Station.
+@view_pos_header:<- Position anzeigen ->
+@announcement_button:Ansage
+@inf_msg_1:Nachricht 1
+@@:(5 sek.)
+@inf_msg_2:Nachricht 2
+@@:(10 sek.)
+@inf_ready:Bereit
+@inf_playback:Nachricht wird wiedergegeben...
+@inf_recording:Aufnehmen...
+@inf_record_txt:Aufnahme
+@inf_done_txt:Fertig
+@announcement_setup_button:Einrichten
+@simple_lighting_notice:<b><color=red>Hinweis:</color> Wenn Dein Gerät die dynamische Beleuchtung (Scheinwerfer-Funktion) nicht unterstützt, kannst du das "Einfache Beleuchtungssystem" einschalten:</b>
+@quit_text:Beenden
+@back_to_menu_button:Zurück zum Hauptmenü
+@cancel_button:Abbrechen
+@simple_lighting_option: einfaches Beleuchtungssystem aktivieren (Neustart erforderlich)
+@back_button:Zurück
+@line_select_text: Linienauswahl
+@start_line_button:Los geht's!
+@system_text:System
+@master_switch_button:HAUPTSCHALTER
+@line_1_name:Western Line
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:Central Line
+@line_5_name:A Line (Express)
+@line_1_description:Stationen: 10
+@@:Level: leicht
+@line_2_description:Stationen: 9
+@@:Level: leicht
+@line_3_description:Stationen: 7
+@@:Level: mittel
+@line_4_description:Stationen: 10
+@@:Level: schwer
+@line_5_description:Stationen: 11 (17)
+@@:Level: schwer
+//////////////////
+@inf_next_signal:Nächstes Signal
+@inf_pressure:Bremsdruck
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automatische Bremse ist aktiv
+@msg_unloading:Entladung...
+@msg_correct_stop:Richtig am Bahnhof angehalten. Bonus +100
+@msg_nxt_station:Du kannst jetzt zur nächsten Station abfahren.
+@msg_start_1:Vorbereitung auf den Start... Bitte warten
+@msg_start_2:Vorbereitung des Motors und des Kompressors. Bitte warten
+@msg_start_3:Der Zug ist bereit. Viel Glück!
+@controller_lock:Blockiert
+@fines_total:Geldbußen, insgesamt:
+@passengers_transported:Beförderte Fahrgäste:
+@score: Gesamtpunktzahl:
+@signal_red_txt:Rot
+@signal_green_txt:Grün
+@signal_connection:Verbinden...
+@signal_warning:Ein Rotes Signal kommt
+@signal_fine:Missachtung des roten Signals, Geldstrafe -50
+@ads_disabled_txt:<b>Werbeanzeigen sind deaktiviert</b>
+@ads_disable_txt:<b> Werbung deaktivieren + Offline-Modus</b>
+@@:<i><size=10>Deaktiviert alle Werbung von Drittanbietern und ermöglicht es, offline zu spielen</size></i>
+@load_text_1:Systeme überprüfen...
+@load_text_2:Kompressor überprüfen...
+@load_text_3:Signale und Motor überprüfen...
+@load_text_4:Fast fertig...
+@spd_warning_50:Achtung: Eine Geschwindigkeitsbegrenzung kommt (50 km/h)
+@spd_warning_35:Achtung: Eine Geschwindigkeitsbegrenzung kommt (35 km/h)
+@spd_overspeed:Geschwindigkeitsüberschreitung. Bitte halte die Geschwindigkeit unter Kontrolle...
+@spd_ok:Jetzt ist die Geschwindigkeit in Ordnung...
+@spd_fine:Geschwindigkeitsüberschreitung. Verlangsame den Zug! Geldbuße 1 Punkt/Sek.
+@compressor_busy:Zustand: beschäftigt
+@compressor_standby:Zustand: Standby
+@graphics_qual_txt:Grafikqualität
+@qual_low_txt:Niedrig
+@qual_medium_txt:Mittel
+@qual_norm_txt:Normal
+@qual_high_txt:Hoch
+@qual_refl_checkbox:Reflektionen
+@qual_light_checkbox:Vereinfachtes Beleuchtungssystem verwenden (Neustart erforderlich)
+@change_lang_btn:Sprache des Spiels ändern
+@close_btn:Schließen
+@about_text:Programmierung von: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D-Modelle von: Anton Romanchuk
+@@:------
+@@:Publisher: Alpha Intl. IT Group
+@@:Wartung des Projekts: Alinit-Projekt (alinit.org), support@alinit.org
+@offline_notice:<b>Dieses Spiel erfordert einen Internetzugang</b>
+@@:
+@@:Internetzugang und Werbung von Drittanbietern ermöglichen es, Mittel zur Verbesserung dieses Spiels zu erhalten. Du kannst jedoch die Funktion "Werbung deaktivieren" kaufen, um alle 3rd-Party-Anzeigen zu deaktivieren und den Offline-Modus zu aktivieren. Wir hoffen auf dein Verständnis.
+@selected_train_txt:Ausgewählter Zug:
+@next_signal_txt:Nächstes Signal
+@air_compr_txt:Luftkompressor
+@air_pressure_txt:Druck:
+@system_battery_txt:Batterie
+@system_atc_txt:ATC
+@controller_positions_txt:Positionen
+@nxt_station_txt:Nächste Station:
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (without stopping)
+@line_5_4:91st Street
+@line_5_5:West Highway (without stopping)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (without stopping)
+@line_5_9:Central Library
+@line_5_10:Museum Street (without stopping)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (without stopping)
+@line_5_14:51st Street
+@line_5_15:49th Street (without stopping)
+@line_5_16:West Street
+@line_5_17:Control point
