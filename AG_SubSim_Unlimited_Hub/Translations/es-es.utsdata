@@ -1,5 +1,5 @@
 $lang:Espanol
-$version:1
+$version:3
 //UI Strings
 //This translation is provided by: Rescue742Fan
 @new_game_button:Nuevo Juego
@@ -123,6 +123,9 @@ $version:1
 @system_atc_txt:ATC
 @controller_positions_txt:posiciones
 @nxt_station_txt:Siguiente estacion:
+//Added in version 3 (auto-generated translation)
+@nxt_ad_text:Siguiente publicidad:
+@prep_ad_text:Preparando publicidad...
 //////////////////
 //Stations
 @line_1_0:Northway

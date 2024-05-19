@@ -1,5 +1,5 @@
 $lang:Français
-$version:2
+$version:3
 //UI Strings
 @new_game_button:Nouveau jeu
 @settings_button:Réglages
@@ -123,6 +123,9 @@ $version:2
 @controller_positions_txt:postes
 @nxt_station_txt:Prochaine station :
 //////////////////
+//Added in version 3 (auto-generated translation)
+@nxt_ad_text:Annonce suivante:
+@prep_ad_text:Préparation d'une publicité...
 //Stations
 @line_1_0:Northway
 @line_1_1:Flowers Street

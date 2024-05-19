@@ -1,5 +1,5 @@
 $lang:日本語 [AUTO]
-$version:1
+$version:2
 //UI Strings
 @new_game_button:新しいゲーム
 @settings_button:設定
@@ -122,6 +122,8 @@ $version:1
 @system_atc_txt:ATC
 @controller_positions_txt:ステップ数
 @nxt_station_txt:次の駅：
+@nxt_ad_text:次の広告:
+@prep_ad_text:広告の準備中...
 //////////////////
 //Stations
 @line_1_0:Northway

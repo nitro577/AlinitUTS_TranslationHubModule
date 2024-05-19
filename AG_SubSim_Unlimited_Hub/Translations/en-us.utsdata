@@ -1,5 +1,5 @@
 $lang:US English
-$version:1
+$version:2
 //UI Strings
 @new_game_button:New game
 @settings_button:Settings
@@ -122,6 +122,8 @@ $version:1
 @system_atc_txt:ATC
 @controller_positions_txt:positions
 @nxt_station_txt:Next station:
+@nxt_ad_text:Next Ad:
+@prep_ad_text:Preparing advertisement...
 //////////////////
 //Stations
 @line_1_0:Northway

@@ -1,5 +1,5 @@
 $lang:Čeština
-$version:2
+$version:3
 //UI Strings
 @new_game_button:Nová Hra
 @settings_button:Nastavení
@@ -122,6 +122,9 @@ $version:2
 @system_atc_txt:ATC
 @controller_positions_txt:pozice
 @nxt_station_txt:Příští stanice:
+//Added in version 3 (auto-generated translation)
+@nxt_ad_text:Další reklama:
+@prep_ad_text:Příprava reklamy...
 //////////////////
 //Stations
 @line_1_0:Northway

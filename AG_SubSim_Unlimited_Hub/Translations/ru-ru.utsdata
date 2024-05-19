@@ -1,5 +1,5 @@
 $lang:Русский
-$version:1
+$version:2
 //UI Strings
 @new_game_button:Новая игра
 @settings_button:Настройки
@@ -122,6 +122,8 @@ $version:1
 @system_atc_txt:СК
 @controller_positions_txt:позиций
 @nxt_station_txt:Следующая станция:
+@nxt_ad_text:Реклама через:
+@prep_ad_text:Подготовка рекламного объявления...
 //////////////////
 //Stations
 @line_1_0:Northway

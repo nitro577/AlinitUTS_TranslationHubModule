@@ -1,5 +1,5 @@
 $lang:한국인 [AUTO]
-$version:1
+$version:2
 //UI Strings
 @new_game_button:새로운 게임
 @settings_button:조절
@@ -63,6 +63,8 @@ $version:1
 @@:레벨: 하드
 @line_5_description:스테이션: 11(17)
 @@:레벨: 하드
+@nxt_ad_text:다음 광고:
+@prep_ad_text:광고 준비 중...
 //////////////////
 @inf_next_signal:다음 신호
 @inf_pressure:브레이크 공기압
