@@ -28,7 +28,7 @@ List of auto-generated translations (translations that may need improvement):
 
 German translation provided by [@Janikfrb](https://github.com/Janikfrb)
 
-Czech translation provided by [@METROGROUND](https://github.com/METROGROUND)
+Czech translation provided by [@falconczfi](https://github.com/falconczfi)
 
 French translation edited by [@ben20471](https://github.com/ben20471)
 
