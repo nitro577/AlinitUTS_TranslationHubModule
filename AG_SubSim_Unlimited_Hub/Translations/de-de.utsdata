@@ -4,48 +4,48 @@ $version:3
 //UI Strings
 @new_game_button:Neues Spiel
 @settings_button:Einstellungen
-@about_button:Über
+@about_button:Über das Spiel
 @quit_button:Beenden
-@choose_line_button:ok | Linie auswählen
+@choose_line_button:OK | Linie wählen
 @max_speed_text:Max. Geschwindigkeit
-@cars_total_text:Wagen (Insgesamt) 
+@cars_total_text:Wagen (gesamt)
 @controller_text:Steuerung
 @cab_preview_button:Führerstand
 @interior_preview_button:Innenansicht
-@score_text:Ergebnis
+@score_text:Gesamtpunktzahl
 @passengers_text:Fahrgäste
-@speed_limit_text:Geschwindigkeitsbegrenzung
-@current_speed_text: Geschwindigkeit
+@speed_limit_text:Höchstgeschwindigkeit
+@current_speed_text:Geschwindigkeit
 @cab_camera_button:Führerstandskamera
-@interior_camera_button:Innenansicht
-@station_camera_button:Bahnhof
+@interior_camera_button:Innenkamera
+@station_camera_button:Station
 @controller_panel_header:Zugsteuerung
-@head_light_button:Zugscheinwerfer
+@head_light_button:Hauptlicht
 @@:Licht
 @cab_light_button:Führerstandsbeleuchtung
 @doors_button:Türen
-@horn_button:Zugsignalhorn
-@stop_pos_header:Positionskontrollsystem
-@express_train_notifiaction:Dies ist ein Schnellzug. Überspringe diese Station.
-@view_pos_header:<- Position anzeigen ->
-@announcement_button:Ansage
-@inf_msg_1:Nachricht 1
-@@:(5 sek.)
-@inf_msg_2:Nachricht 2
-@@:(10 sek.)
+@horn_button:Signalhorn
+@stop_pos_header:Haltepunktkontrolle
+@express_train_notifiaction:Dies ist ein Express-Zug. Nächste Station wird durchfahren.
+@view_pos_header:<- Position ->
+@announcement_button:Durchsage
+@inf_msg_1:Ansage 1
+@@:(5 Sek.)
+@inf_msg_2:Ansage 2
+@@:(10 Sek.)
 @inf_ready:Bereit
-@inf_playback:Nachricht wird wiedergegeben...
-@inf_recording:Aufnehmen...
+@inf_playback:Ansage wird abgespielt...
+@inf_recording:Aufnahme...
 @inf_record_txt:Aufnahme
 @inf_done_txt:Fertig
-@announcement_setup_button:Einrichten
-@simple_lighting_notice:<b><color=red>Hinweis:</color> Wenn Dein Gerät die dynamische Beleuchtung (Scheinwerfer-Funktion) nicht unterstützt, kannst du das "Einfache Beleuchtungssystem" einschalten:</b>
+@announcement_setup_button:Einstellungen
+@simple_lighting_notice:<b><color=red>Hinweis:</color> Falls dein Gerät die dynamische Beleuchtung nicht unterstützt (Hauptlicht funktioniert nicht), kannst du die vereinfachte Beleuchtung aktivieren:</b>
 @quit_text:Beenden
 @back_to_menu_button:Zurück zum Hauptmenü
 @cancel_button:Abbrechen
-@simple_lighting_option: einfaches Beleuchtungssystem aktivieren (Neustart erforderlich)
+@simple_lighting_option:Vereinfachtes Beleuchtungssystem verwenden (Neustart erforderlich)
 @back_button:Zurück
-@line_select_text: Linienauswahl
+@line_select_text:Linienauswahl
 @start_line_button:Los geht's!
 @system_text:System
 @master_switch_button:HAUPTSCHALTER
@@ -55,67 +55,67 @@ $version:3
 @line_4_name:Central Line
 @line_5_name:A Line (Express)
 @line_1_description:Stationen: 10
-@@:Level: leicht
+@@:Schwierigkeit: Niedrig
 @line_2_description:Stationen: 9
-@@:Level: leicht
+@@:Schwierigkeit: Niedrig
 @line_3_description:Stationen: 7
-@@:Level: mittel
+@@:Schwierigkeit: Mittel
 @line_4_description:Stationen: 10
-@@:Level: schwer
+@@:Schwierigkeit: Hoch
 @line_5_description:Stationen: 11 (17)
-@@:Level: schwer
+@@:Schwierigkeit: Hoch
 //////////////////
 @inf_next_signal:Nächstes Signal
-@inf_pressure:Bremsdruck
+@inf_pressure:Bremsluftdruck
 @inf_pressure_ind:Prsr.
-@msg_autobrake:Automatische Bremse ist aktiv
-@msg_unloading:Entladung...
-@msg_correct_stop:Richtig am Bahnhof angehalten. Bonus +100
-@msg_nxt_station:Du kannst jetzt zur nächsten Station abfahren.
-@msg_start_1:Vorbereitung auf den Start... Bitte warten
-@msg_start_2:Vorbereitung des Motors und des Kompressors. Bitte warten
-@msg_start_3:Der Zug ist bereit. Viel Glück!
-@controller_lock:Blockiert
-@fines_total:Geldbußen, insgesamt:
+@msg_autobrake:Automatische Bremse ist aktiviert
+@msg_unloading:Entladen...
+@msg_correct_stop:Richtiger Halt an der Station. Bonus +100
+@msg_nxt_station:Du kannst zur nächsten Station weiterfahren.
+@msg_start_1:Vorbereitung zum Start... Bitte warten
+@msg_start_2:Vorbereitung von Motor und Kompressor. Bitte warten
+@msg_start_3:Der Zug ist startklar. Gute Fahrt!
+@controller_lock:Gesperrt
+@fines_total:Geldbußen insgesamt:
 @passengers_transported:Beförderte Fahrgäste:
-@score: Gesamtpunktzahl:
+@score:Gesamtpunktzahl:
 @signal_red_txt:Rot
 @signal_green_txt:Grün
-@signal_connection:Verbinden...
-@signal_warning:Ein Rotes Signal kommt
-@signal_fine:Missachtung des roten Signals, Geldstrafe -50
-@ads_disabled_txt:<b>Werbeanzeigen sind deaktiviert</b>
-@ads_disable_txt:<b> Werbung deaktivieren + Offline-Modus</b>
-@@:<i><size=10>Deaktiviert alle Werbung von Drittanbietern und ermöglicht es, offline zu spielen</size></i>
-@load_text_1:Systeme überprüfen...
-@load_text_2:Kompressor überprüfen...
-@load_text_3:Signale und Motor überprüfen...
+@signal_connection:Verbindung...
+@signal_warning:Rotes Signal voraus
+@signal_fine:Rotlicht überfahren, Strafe -50
+@ads_disabled_txt:<b>Werbung deaktiviert</b>
+@ads_disable_txt:<b>Werbung aus + Offline-Modus</b>
+@@:<i><size=10>Deaktiviert alle Fremdwerbung und ermöglicht Offline-Spiel</size></i>
+@load_text_1:Systemprüfung...
+@load_text_2:Kompressorprüfung...
+@load_text_3:Signal- und Motorprüfung...
 @load_text_4:Fast fertig...
-@spd_warning_50:Achtung: Eine Geschwindigkeitsbegrenzung kommt (50 km/h)
-@spd_warning_35:Achtung: Eine Geschwindigkeitsbegrenzung kommt (35 km/h)
-@spd_overspeed:Geschwindigkeitsüberschreitung. Bitte halte die Geschwindigkeit unter Kontrolle...
-@spd_ok:Jetzt ist die Geschwindigkeit in Ordnung...
-@spd_fine:Geschwindigkeitsüberschreitung. Verlangsame den Zug! Geldbuße 1 Punkt/Sek.
-@compressor_busy:Zustand: beschäftigt
-@compressor_standby:Zustand: Standby
+@spd_warning_50:Achtung: Tempolimit voraus (50 km/h)
+@spd_warning_35:Achtung: Tempolimit voraus (35 km/h)
+@spd_overspeed:Geschwindigkeitsüberschreitung. Halten Sie die Geschwindigkeit unter Kontrolle.
+@spd_ok:Geschwindigkeit jetzt im zulässigen Bereich...
+@spd_fine:Geschwindigkeitsüberschreitung. Bremsen! Strafe 1 Punkt/Sek.
+@compressor_busy:Status: Aktiv
+@compressor_standby:Status: Standby
 @graphics_qual_txt:Grafikqualität
 @qual_low_txt:Niedrig
 @qual_medium_txt:Mittel
 @qual_norm_txt:Normal
 @qual_high_txt:Hoch
-@qual_refl_checkbox:Reflektionen
-@qual_light_checkbox:Vereinfachtes Beleuchtungssystem verwenden (Neustart erforderlich)
-@change_lang_btn:Sprache des Spiels ändern
+@qual_refl_checkbox:Reflexionen
+@qual_light_checkbox:Vereinfachte Beleuchtung verwenden (Neustart erforderlich)
+@change_lang_btn:Sprache ändern
 @close_btn:Schließen
-@about_text:Programmierung von: Sviatoslav Bilov (bilov@alinit.org)
-@@:3D-Modelle von: Anton Romanchuk
+@about_text:Programmierung: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D-Modelle: Anton Romanchuk
 @@:------
 @@:Publisher: Alpha Intl. IT Group
-@@:Wartung des Projekts: Alinit-Projekt (alinit.org), support@alinit.org
-@offline_notice:<b>Dieses Spiel erfordert einen Internetzugang</b>
+@@:Projektbetreuung: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Dieses Spiel benötigt eine Internetverbindung</b>
 @@:
-@@:Internetzugang und Werbung von Drittanbietern ermöglichen es, Mittel zur Verbesserung dieses Spiels zu erhalten. Du kannst jedoch die Funktion "Werbung deaktivieren" kaufen, um alle 3rd-Party-Anzeigen zu deaktivieren und den Offline-Modus zu aktivieren. Wir hoffen auf dein Verständnis.
-@selected_train_txt:Ausgewählter Zug:
+@@:Die Internetverbindung und Werbung ermöglichen die Weiterentwicklung des Spiels. Du kannst die Funktion "Werbung deaktivieren" erwerben, die auch den Offline-Modus aktiviert. Vielen Dank für dein Verständnis.
+@selected_train_txt:Ausgewählter Zug
 @next_signal_txt:Nächstes Signal
 @air_compr_txt:Luftkompressor
 @air_pressure_txt:Druck:
@@ -123,9 +123,8 @@ $version:3
 @system_atc_txt:ATC
 @controller_positions_txt:Positionen
 @nxt_station_txt:Nächste Station:
-//Added in version 3 (auto-generated translation)
-@nxt_ad_text:Nächste Anzeige:
-@prep_ad_text:Anzeige wird vorbereitet...
+@nxt_ad_text:Werbung in:
+@prep_ad_text:Werbung wird vorbereitet...
 //////////////////
 //Stations
 @line_1_0:Northway
@@ -168,8 +167,8 @@ $version:3
 @line_4_8:Stadium
 @line_4_9:Central Park
 @line_4_10:Control point
-@line_5_0:Suburban discrict
-@line_5_1:Forest street
+@line_5_0:Suburban District
+@line_5_1:Forest Street
 @line_5_2:Birch Park
 @line_5_3:Stadium (without stopping)
 @line_5_4:91st Street
