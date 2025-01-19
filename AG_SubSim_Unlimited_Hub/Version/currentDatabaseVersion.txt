@@ -1,1 +1,1 @@
-currentDatabaseVersion = 6; //added additional strings
+currentDatabaseVersion = 7; //added additional strings
